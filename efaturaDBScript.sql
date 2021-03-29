@@ -10,10 +10,10 @@ user_password varchar (45)
 );
 
 	insert into User (tckn_vkn,email,username,user_password)
- values("4840915362","destek@java.com.tr","destek","xxxxxxxx");
+ values("22222222222","destek@java.com.tr","destek","xxxxxxxx");
  
  insert into User (tckn_vkn,email,username,user_password)
- values("4840915363","destek1@java.com.tr","destek","xxxxxxxx");
+ values("11111111111","destek1@java.com.tr","destek","xxxxxxxx");
 
  select * from User;
  
